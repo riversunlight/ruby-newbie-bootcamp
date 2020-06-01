@@ -13,6 +13,6 @@ class Hand
   private
 
   def categorize
-    'high-card'
+    'one-pair'
   end
 end
